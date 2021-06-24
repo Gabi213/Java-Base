@@ -1,7 +1,9 @@
 package Javabasico2;
 
 import java.util.Scanner;
-
+/**
+ * @author Gabriel Albarracin 23/06/2021
+ */
 public class EntradaySalidaDatos {
 
 	public static void main(String[] args) {
@@ -32,14 +34,12 @@ public class EntradaySalidaDatos {
 		
 		
 		// print, printl, printf
-		
 		String mensajeDos = "Esto es un mensaje";
 		
 		System.out.print(mensajeDos);
 		System.out.println(mensajeDos);
 	
-		//Printf
-		//50.32568 -> 50.32
+		//Printf 50.32568 -> 50.32
 		
 		double pago = 50.32568;
 		System.out.printf("%4.2f", pago);
