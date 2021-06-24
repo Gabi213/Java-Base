@@ -1,4 +1,4 @@
-package main;
+package Javabasico1;
 
 public class MiPrimerProyectoEnJava {
 
